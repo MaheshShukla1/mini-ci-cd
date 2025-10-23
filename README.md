@@ -1,1 +1,1 @@
-# mini-ci-cd
+# Mini CI/CD Project
